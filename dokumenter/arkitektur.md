@@ -13,7 +13,7 @@ Oversikt over min homelab-infrastruktur basert på Proxmox.
 - **CPU:** 6-core Intel Xeon E5
 - **RAM:** 64GB
 - **Hypervisor:** Proxmox VE
-- **Intern lagring:** [Fyll ut når du vet - SSD for Proxmox OS]
+- **Intern lagring:** 500GB SSD (Proxmox OS + VM storage)
 
 ### Ekstern lagring
 
@@ -54,7 +54,8 @@ Mac Pro (Proxmox)
 ## Virtualisering
 
 ### Proxmox VE
-- **Versjon:** pve-manager/9.1.1/42db4a6cf33dac83 (running kernel: 6.17.2-1-pve)
+- **Versjon:** 9.11
+- **Kernel:** 6.17.2-1-pve
 - **Web GUI:** 192.168.1.120:8006
 - **Rolle:** Hypervisor - kjører alle VMs og containers
 
