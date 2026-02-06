@@ -13,10 +13,11 @@ Selvhoste følgende tjenester:
 - Navidrome (musikk)
 - Immich (bilder)
 - Nextcloud (filer)
+- med mer
 
 ## Hardware
 - Mac Pro 6,1 (2013 (søppelbøtten))
-- Sekskjerner Intel Xeon E5
+- Sekskjerners Intel Xeon E5
 - 64GB RAM
 - Proxmox
 
