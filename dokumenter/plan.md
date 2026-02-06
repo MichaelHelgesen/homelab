@@ -1,6 +1,6 @@
 # Implementeringsplan
 
-## Fase 1: Grunnmur (uke 1-2)
+## Fase 1: Grunnmur
 - [x] Proxmox-installasjon
 - [x] Første Ubuntu Server VM
 - [ ] Docker-installasjon
